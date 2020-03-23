@@ -1,2 +1,2 @@
-# dot-net-react
-.NET core with ReactJS
+# .NET core with ReactJS
+.NET core project with ReactJS
